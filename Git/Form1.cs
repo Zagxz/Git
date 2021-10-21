@@ -19,7 +19,7 @@ namespace Git
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Git that");
+            MessageBox.Show("Git that hub");
 
         }
     }
